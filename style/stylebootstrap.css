@@ -1,0 +1,14 @@
+/* CAROUSEL */
+
+.d-block {
+    height: 960px;
+}
+
+#carouselExampleCaptions .carousel-caption h5 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+#carouselExampleCaptions .carousel-caption p {
+    font-size: 30px;
+}
